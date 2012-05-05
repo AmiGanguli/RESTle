@@ -1,0 +1,5 @@
+#define renderd_VERSION_MAJOR @renderd_VERSION_MAJOR@
+#define renderd_VERSION_MINOR @renderd_VERSION_MINOR@
+#define LOG_LEVEL @LOG_LEVEL@
+#define SERVER_ADDRESS "@SERVER_ADDRESS@"
+
