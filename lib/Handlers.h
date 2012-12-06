@@ -6,9 +6,11 @@
 #include <string>
 #include <map>
 
+#include "Request.h"
+
 namespace REST {
 
-enum Method { GET, PUT, POST, DELETE };
+
 
 void registerFactory(
 	Method method,

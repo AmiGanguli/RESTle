@@ -42,3 +42,11 @@ target_link_libraries(testle
 	PocoNet
 )
 
+add_executable(test_v8
+	src/test_v8.C
+)
+
+target_link_libraries(test_v8
+	v8
+)
+
